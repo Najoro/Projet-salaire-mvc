@@ -1,0 +1,4 @@
+DB NAME = mnt_groupe
+table = salariers
+
+mdp phpMyadmin =9jWsu7WbU*rtUH3E
